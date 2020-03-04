@@ -1,5 +1,5 @@
 {
-  "name": "iunigo-template",
+  "name": "cra-template-iunigo",
   "version": "1.0.0",
   "description": "iúnigo template for minisites",
   "main": "template.json",
