@@ -1,0 +1,11 @@
+{
+  "name": "iunigo-template",
+  "version": "1.0.0",
+  "description": "iúnigo template for minisites",
+  "main": "template.json",
+  "license": "ISC",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
